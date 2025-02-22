@@ -1,0 +1,44 @@
+
+# Ignore the virtual environment
+myenv/
+venv/
+.myenv/
+env/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore video files 
+*.avi
+*.mov
+
+
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.out
+*.pid
+
+.ipynb_checkpoints/
+
+odels/
+checkpoints/
