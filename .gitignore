@@ -1,4 +1,3 @@
-
 # Ignore the virtual environment
 myenv/
 venv/
@@ -40,5 +39,7 @@ logs/
 
 .ipynb_checkpoints/
 
-odels/
+data/
+output/
+models/
 checkpoints/
